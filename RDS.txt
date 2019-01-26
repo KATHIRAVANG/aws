@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/KATHIRAVANG/60d5f0262ada57eddfc3c42af7f61956/raw/7b3dd45d38b4d1288d9f44160f88c37f18af52c4/bootscript.sh
+https://gist.githubusercontent.com/KATHIRAVANG/6cba627c1a261e2f58121063163f7094/raw/fc943288f8f1ca059bf2aca724c9932208adfdd0/connect.php
